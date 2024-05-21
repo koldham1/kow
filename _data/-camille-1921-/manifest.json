@@ -11,6 +11,13 @@
         "format": "text/html"
       }
     ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://koldham1.github.io/kow/-camille-1921-/canvas-1/canvas",
