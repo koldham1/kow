@@ -23,6 +23,32 @@
         "id": "https://koldham1.github.io/kow/-camille-1921-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 304.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://koldham1.github.io/kow/annotations/-camille-1921--canvas-1-visual-effects.json",
+            "label": {
+              "none": ["visual effects"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://koldham1.github.io/kow/annotations/-camille-1921--canvas-1-fill-in.json",
+            "label": {
+              "none": ["Fill in"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://koldham1.github.io/kow/annotations/-camille-1921--canvas-1-words.json",
+            "label": {
+              "none": ["Words"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://koldham1.github.io/kow/-camille-1921-/canvas-1/paintings",
