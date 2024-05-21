@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://koldham1.github.io/kow/annotations/-camille-1921--canvas-1-00-00-00.json",
-            "label": {
-              "none": ["00:00:00"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://koldham1.github.io/kow/annotations/-camille-1921--canvas-1-00-00-14.json",
             "label": {
               "none": ["00:00:14"]
